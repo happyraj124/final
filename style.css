@@ -18,7 +18,7 @@
     padding-top: 5px;
 }
 .logo{
-    background-image: url("/imgs/Amazon-Logo-White-PNG-Image.png");
+    background-image: url("Amazon-Logo-White-PNG-Image.png");
     background-size: cover;
     height: 50px;
     width: 150px;
@@ -136,7 +136,7 @@
 
 /*WEBPAGE*/
 .webpage{
-    background-image: url("/imgs/bgimg7.jpg");
+    background-image: url("bgimg7.jpg");
     background-size: contain;
     height: 500px;
     animation-name: newanimation1;
@@ -145,7 +145,7 @@
     animation-iteration-count:infinite;
 }
 @keyframes newanimation1 {
-    from{background-image: url("/imgs/bgimg7.jpg");}
+    from{background-image: url("bgimg7.jpg");}
     to{background-image: url("bgimg5.jpg");}  
 }
 
